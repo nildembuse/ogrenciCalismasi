@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightblue;
+
+}
+
+h1{
+    text-align: center;
+  
+}
+
+#form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.container{
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.yazi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+.ekle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+    width: 75px;
+
+}
+.ogrenciEkleme{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ogrenciList{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
